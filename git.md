@@ -1,5 +1,7 @@
 ### Setup
 
+test change
+
 1. Download starter kit... http://bit.ly/intro-to-git-starter-kit
 2. Open a new Bash window and `cd` in to the starter kit's directory
 
